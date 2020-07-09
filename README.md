@@ -1,6 +1,6 @@
 <div align="center"><h2>Hey, My name is Mohit 😎</h2></div>
 <br>
-I am a Big Linux Enthusiast and I love OpenSource. On my Github, you can the projects I am involved in as well as y contributions to other repos.
+I am a Big Linux Enthusiast and I love Open-Source. On my Github, you can see all the projects I am involved in as well as my contributions to other repos.
 
 Apart from coding, I read a lot of Books and I have a huge interest in Astrophysics. And yeah I play Football.
 
