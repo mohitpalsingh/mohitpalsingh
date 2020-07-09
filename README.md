@@ -1,4 +1,4 @@
-<div align="center"><h1>Hey, My name is Mohit 😎</h1></div>
+<div align="center"><h2>Hey, My name is Mohit 😎</h2></div>
 <br>
 I am a Big Linux Enthusiast and I love Open-Source. On my Github, you can see all the projects I am involved in as well as my contributions to other repos.
 
