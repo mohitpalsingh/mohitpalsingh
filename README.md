@@ -5,6 +5,6 @@ I am a Big Linux Enthusiast and I love OpenSource. On my Github, you can the pro
 Apart from coding, I read a lot of Books and I have a huge interest in Astrophysics. And yeah I play Football.
 
 LINKS-
-  - LinkedIn: www.linkedin.com/in/mohit-pal-singh
-  - Twitter: www.twitter.com/mohit_pal_singh
-  - Emal: starktony239@gmail.com
+  - LinkedIn: www.linkedin.com/in/mohit-pal-singh <img align="left" alt="Mohit's LinkedIn" width="21px" src="////////" />
+  - Twitter: www.twitter.com/mohit_pal_singh <img align="left" alt="Mohit's Twitter" width="21px" src="////////" />
+  - Email: starktony239@gmail.com <img align="left" alt="Mohit's Mail" width="21px" src="////////" />
