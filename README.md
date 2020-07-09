@@ -1,4 +1,4 @@
-###Hey, My name is Mohit 😎
+<div align="center"><h2>Hey, My name is Mohit 😎</h2></div>
 <br>
 I am a Big Linux Enthusiast and I love OpenSource. On my Github, you can the projects I am involved in as well as y contributions to other repos.
 
