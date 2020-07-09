@@ -7,4 +7,4 @@ Apart from coding, I read a lot of Books and I have a huge interest in Astrophys
 LINKS-
   - LinkedIn: www.linkedin.com/in/mohit-pal-singh  <img alt="Mohit's LinkedIn" width="19px" src="https://github.com/mohitpalsingh/mohitpalsingh/tree/master/assets/linkedin.svg" />
   - Twitter: www.twitter.com/mohit_pal_singh  <img alt="Mohit's Twitter" width="19px" src="https://github.com/mohitpalsingh/mohitpalsingh/tree/master/assets/twitter.svg" />
-  - Email: starktony239@gmail.com  <img alt="Mohit's Mail" width="19px" src="https://github.com/mohitpalsingh/mohitpalsingh/tree/master/assets/email.svg" />
+  - Email: starktony239@gmail.com  <img alt="Mohit's Mail" width="19px" src="https://github.com/mohitpalsingh/mohitpalsingh/tree-save/master/assets/email.svg" />
